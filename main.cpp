@@ -100,13 +100,13 @@ wormhole.defyPhysics();
 //  action 3:   the wormhole closes
 wormhole.close();
 //  7)
-//  Noun:       janitor
-//  action 1:   the janitor sweeps the floor
-janitor.sweepFloor();
-//  action 2:   the janitor collects garbage
-janitor.collectGarbage();
-//  action 3:   the janitor takes a break
-janitor.takeBreak();
+//  Noun:       author
+//  action 1:   the author writes a book
+author.writeBook();
+//  action 2:   the author signs an autograph
+author.signAutograph();
+//  action 3:   the author makes a sequel
+author.makeSequel();
 //  8)
 //  Noun:       dj
 //  action 1:   the dj plays a track
