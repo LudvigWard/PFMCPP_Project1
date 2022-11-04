@@ -100,13 +100,13 @@ wormhole.defyPhysics();
 //  action 3:   the wormhole closes
 wormhole.close();
 //  7)
-//  Noun:       author
-//  action 1:   the author writes a book
-author.writeBook();
-//  action 2:   the author signs an autograph
-author.signAutograph();
-//  action 3:   the author makes a sequel
-author.makeSequel();
+//  Noun:       fantasy author
+//  action 1:   the fantasy author writes a book
+fantasyAuthor.writeBook();
+//  action 2:   the fantasy author signs an autograph
+fantasyAuthor.signAutograph();
+//  action 3:   the fantasy author makes a sequel
+fantasyAuthor.makeSequel();
 //  8)
 //  Noun:       dj
 //  action 1:   the dj plays a track
