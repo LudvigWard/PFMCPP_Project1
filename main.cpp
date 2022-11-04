@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       bartender
+//  action 1:   the bartender takes an order
+bartender.takeOrder();
+//  action 2:   the bartender shakes a drink
+bartender.shakeDrink();
+//  action 3:   the bartender serves a drink
+bartender.serveDrink();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       politician
+//  action 1:   the politician campaigns
+politician.campaign();
+//  action 2:   the politician gives a speech
+politician.giveSpeech();
+//  action 3:   the politician argues
+politician.argue();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       chameleon
+//  action 1:   the chameleon hides
+chameleon.hide();
+//  action 2:   the chameleon eats a plant
+chameleon.eatPlant();
+//  action 3:   the chameleon sleeps
+chameleon.sleep();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       AI
+//  action 1:   the AI learns
+ai.learn();
+//  action 2:   the AI questions
+ai.question();
+//  action 3:   the AI makes a joke
+ai.makeJoke();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       oven
+//  action 1:   the oven heats up
+oven.heatUp();
+//  action 2:   the oven cools down
+oven.coolDown();
+//  action 3:   the oven burns food
+oven.burnFood();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       wormhole
+//  action 1:   the wormhole opens
+wormhole.open();
+//  action 2:   the wormhole defies physics
+wormhole.defyPhysics();
+//  action 3:   the wormhole closes
+wormhole.close();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       fantasy author
+//  action 1:   the fantasy author writes a book
+fantasyAuthor.writeBook();
+//  action 2:   the fantasy author signs an autograph
+fantasyAuthor.signAutograph();
+//  action 3:   the fantasy author makes a sequel
+fantasyAuthor.makeSequel();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       dj
+//  action 1:   the dj plays a track
+dj.playTrack();
+//  action 2:   the dj neglects a track request
+dj.neglectTrackRequest();
+//  action 3:   the dj scratches
+dj.scratch();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       stock
+//  action 1:   the stock rises in value
+stock.riseInValue();
+//  action 2:   the stock decreases in value
+stock.decreaseInValue();
+//  action 3:   the stock stays unaffected
+stock.stayUnaffected();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       horror movie
+//  action 1:   the horror movie shocks an audience
+horrorMovie.shockAudience();
+//  action 2:   the horror movie depicts violence
+horrorMovie.depictViolence();
+//  action 3:   the horror movie ends
+horrorMovie.end();
 
 
 #endif
